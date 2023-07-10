@@ -26,13 +26,13 @@ To get started with this repository, follow the instructions below:
 
 1. Clone the repository:
 
-git clone https://github.com/NIlanjan-Adhikari/SHP2_inhibitory_activity_prediction.git
+     git clone https://github.com/NIlanjan-Adhikari/SHP2_inhibitory_activity_prediction.git
 
 2. Install the required dependencies. It is recommended to use a virtual environment:
-cd SHP2_inhibitory_activity_prediction
-pip install -r requirements.txt
+   
+    pip install -r requirements.txt
 
-3. Explore the provided notebooks in the notebooks directory to understand the data and model training process.
+4. Explore the provided notebooks for analysing results and developing models.
 
 ## License
 The code in this repository is licensed under the Apache License 2.0
