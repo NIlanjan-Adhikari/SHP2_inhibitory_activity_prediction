@@ -45,5 +45,5 @@ Email: nilanjan.adhikari.phe17@itbhu.ac.in
 Feel free to reach out with any questions or feedback!
 
 ## Reference
-1. a
-2. b
+1. Mitra, R., Ayyannan, S.R. (2021). Small-Molecule Inhibitors of Shp2 Phosphatase as Potential Chemotherapeutic Agents for Glioblastoma: A Minireview. ChemMedChem 16:777–787. https://doi.org/10.1002/CMDC.202000706
+2. Tripathi, R.K.P., Ayyannan, S.R. (2021). Emerging chemical scaffolds with potential SHP2 phosphatase inhibitory capabilities – A comprehensive review. Chem Biol Drug Des 97:721–773. https://doi.org/10.1111/CBDD.13807
