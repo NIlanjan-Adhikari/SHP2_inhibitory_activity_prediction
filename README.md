@@ -7,7 +7,8 @@ SHP2 is a protein phosphatase involved in various cellular processes and has eme
 
 ## Repository Structure
 The repository is organized as follows:<br>
-10_fold_cross_validation: This directory contains the code for creating 10 folds.<br>
+
+<b>10_fold_cross_validation:</b> This directory contains the code for creating 10 folds.<br>
 Data_processing: This directory contains the code for converting the raw data downloaded from BindingDB and Chembl databases to structured format.<br>
 EDA: Jupyter notebooks are stored here for doing exploratory data analysis.<br>
 Feature_selection: This directory contains the source code for implementing genetic algorithm for feature selection process.<br>
