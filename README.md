@@ -7,31 +7,17 @@ SHP2 is a protein phosphatase involved in various cellular processes and has eme
 
 ## Repository Structure
 The repository is organized as follows:
-
-.
-├── data
-│   ├── train.csv
-│   ├── test.csv
-│   └── ...
-├── models
-│   ├── model1.pkl
-│   ├── model2.pkl
-│   └── ...
-├── notebooks
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── ...
-├── src
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   └── ...
-├── README.md
-└── requirements.txt
-data: This directory contains the training and testing datasets in CSV format.
-models: The trained machine learning models are saved in this directory for future use.
-notebooks: Jupyter notebooks are stored here, including data exploration, model training, and evaluation.
-src: This directory contains the source code, including data preprocessing, feature engineering, and model evaluation scripts.
-README.md: The file you are currently reading, providing an overview of the repository.
+10_fold_cross_validation: This directory contains the code for creating 10 folds.
+Data_processing: This directory contains the code for converting the raw data downloaded from BindingDB and Chembl databases to structured format.
+EDA: Jupyter notebooks are stored here for doing exploratory data analysis.
+Feature_selection: This directory contains the source code for implementing genetic algorithm for feature selection process 
+Final_data: This directory contains the final format of the dataset.
+Hyperparameter_tuning: This directory contains the code for implementation of Bayesian optimization for hyperparameter tuning for all the seven models.
+Model_development: This directory contains the code for training the seven models.
+Model_evaluation: This directory contains the code for evaluation curves like ROC curve, PR curve etc.
+Model_explainability: This directory contains the code for explainability of machine learning models using SHAP values.
+Raw_data: This directory contains the raw data downloaded from BindingDB, Chembl and literature [1,2]
+supplimentary: This directory contains some supplimentary analysis of the dataset.
 requirements.txt: A text file specifying the dependencies required to run the code.
 
 ## Getting Started
@@ -47,17 +33,8 @@ pip install -r requirements.txt
 
 3. Explore the provided notebooks in the notebooks directory to understand the data and model training process.
 
-## Usage
-Once you have set up the repository and installed the dependencies, you can use the provided code to perform the following tasks:
-
-Data Exploration: Use the Jupyter notebooks in the notebooks directory to explore the dataset and gain insights into the data.
-Model Training: Train machine learning models using the provided notebooks. The notebooks include steps for data preprocessing, feature engineering, model training, and evaluation.
-Prediction: Once you have trained the model, you can use it to make predictions on new data.
-Contributing
-Contributions to this repository are welcome. If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
-
 ## License
-The code in this repository is licensed under the MIT License.
+The code in this repository is licensed under the Apache License 2.0
 
 ## Contact
 If you have any questions or inquiries, please contact the repository owner:
@@ -65,3 +42,7 @@ If you have any questions or inquiries, please contact the repository owner:
 Name: NIlanjan Adhikari
 Email: nilanjan.adhikari.phe17@itbhu.ac.in
 Feel free to reach out with any questions or feedback!
+
+## Reference
+1. a
+2. b
