@@ -9,17 +9,17 @@ SHP2 is a protein phosphatase involved in various cellular processes and has eme
 The repository is organized as follows:<br>
 
 <b>10_fold_cross_validation:</b> This directory contains the code for creating 10 folds.<br>
-Data_processing: This directory contains the code for converting the raw data downloaded from BindingDB and Chembl databases to structured format.<br>
-EDA: Jupyter notebooks are stored here for doing exploratory data analysis.<br>
-Feature_selection: This directory contains the source code for implementing genetic algorithm for feature selection process.<br>
-Final_data: This directory contains the final format of the dataset.<br>
-Hyperparameter_tuning: This directory contains the code for implementation of Bayesian optimization for hyperparameter tuning for all the seven models.<br>
-Model_development: This directory contains the code for training the seven models.<br>
-Model_evaluation: This directory contains the code for evaluation curves like ROC curve, PR curve etc.<br>
-Model_explainability: This directory contains the code for explainability of machine learning models using SHAP values.<br>
-Raw_data: This directory contains the raw data downloaded from BindingDB, Chembl and literature [1,2]<br>
-supplimentary: This directory contains some supplimentary analysis of the dataset.<br>
-requirements.txt: A text file specifying the dependencies required to run the code.<br>
+<b>Data_processing:</b> This directory contains the code for converting the raw data downloaded from BindingDB and Chembl databases to structured format.<br>
+<b>EDA:</b> Jupyter notebooks are stored here for doing exploratory data analysis.<br>
+<b>Feature_selection:</b> This directory contains the source code for implementing genetic algorithm for feature selection process.<br>
+<b>Final_data:</b> This directory contains the final format of the dataset.<br>
+<b>Hyperparameter_tuning:</b> This directory contains the code for implementation of Bayesian optimization for hyperparameter tuning for all the seven models.<br>
+<b>Model_development:</b> This directory contains the code for training the seven models.<br>
+<b>Model_evaluation:</b> This directory contains the code for evaluation curves like ROC curve, PR curve etc.<br>
+<b>Model_explainability:</b> This directory contains the code for explainability of machine learning models using SHAP values.<br>
+<b>Raw_data:</b> This directory contains the raw data downloaded from BindingDB, Chembl and literature [1,2]<br>
+<b>supplimentary:</b> This directory contains some supplimentary analysis of the dataset.<br>
+<b>requirements.txt:</b> A text file specifying the dependencies required to run the code.<br>
 
 ## Getting Started
 To get started with this repository, follow the instructions below:
