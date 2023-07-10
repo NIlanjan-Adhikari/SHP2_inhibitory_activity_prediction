@@ -40,8 +40,8 @@ The code in this repository is licensed under the Apache License 2.0
 ## Contact
 If you have any questions or inquiries, please contact the repository owner:
 
-Name: NIlanjan Adhikari
-Email: nilanjan.adhikari.phe17@itbhu.ac.in
+Name: NIlanjan Adhikari<br>
+Email: nilanjan.adhikari.phe17@itbhu.ac.in<br>
 Feel free to reach out with any questions or feedback!
 
 ## Reference
