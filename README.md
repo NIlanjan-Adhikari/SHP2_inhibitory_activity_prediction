@@ -1,6 +1,6 @@
 # SHP2 Enzyme Inhibitory Activity Prediction
 
-This repository contains code and resources for predicting the inhibitory activity of SHP2 (Src homology 2 domain-containing protein tyrosine phosphatase 2) using machine learning techniques. 
+This repository contains code and resources for predicting the inhibitory activity of SHP2 (Src homology 2 domain-containing protein tyrosine phosphatase 2) using machine learning techniques.<br>
 Link : https://link.springer.com/article/10.1007/s11030-023-10710-x
 
 ## Introduction
