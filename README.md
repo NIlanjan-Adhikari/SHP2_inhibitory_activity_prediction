@@ -1,6 +1,6 @@
 # SHP2 Enzyme Inhibitory Activity Prediction
 
-This repository contains code and resources for predicting the inhibitory activity of SHP2 (Src homology 2 domain-containing protein tyrosine phosphatase 2) using machine learning techniques.
+This repository contains code and resources for predicting the inhibitory activity of SHP2 (Src homology 2 domain-containing protein tyrosine phosphatase 2) using machine learning techniques. Link : https://link.springer.com/article/10.1007/s11030-023-10710-x
 
 ## Introduction
 SHP2 is a protein phosphatase involved in various cellular processes and has emerged as a potential anticancer target for drug development. This project aims to develop predictive model using machine learning algorithms(Artificial neural networks, support vector machine, K nearest neighbour, Naive Bayes, Decision trees, XGBoost, Logistic regression)s. Developing an accurate and reliable machine learning based QSAR model can greatly aid in predicting the inhibitory activity of compounds against the SHP2 enzyme, facilitating the identification of potential drug candidates.
